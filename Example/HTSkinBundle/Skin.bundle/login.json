@@ -1,0 +1,7 @@
+{
+	"selected_songs_color": "primaryColor",
+    "next_button_title_color": "#FFFFFF",
+    "next_button_bg_color": "primaryGradientColor",
+    "next_button_title_font": 17,
+    "region_label_image": "img_home_label_area"
+}

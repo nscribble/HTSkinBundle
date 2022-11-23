@@ -1,0 +1,13 @@
+{
+    "primaryFont": "Helvetica-Bold",
+    "primaryColor": "#4594FF",
+    "primaryGradientColor": ["#8A76FC", "#FF52D3", "#F2B273"],
+    
+    "navigationColor": "#4594FF",
+    "navigationTitleFont": 17,
+    "navigationTitleColor": "#FFFFFF",
+    "navigationBgImage": "img_nav_bg",
+    "navigationBackImage": "img_nav_back",
+    
+    "badgeColor": "#FF6365"
+}

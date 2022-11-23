@@ -1,0 +1,16 @@
+PODS:
+  - HTSkinBundle (0.2.3)
+
+DEPENDENCIES:
+  - HTSkinBundle (from `../`)
+
+EXTERNAL SOURCES:
+  HTSkinBundle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTSkinBundle: 0989d838c4732076b963a105d1015963f96c3cb9
+
+PODFILE CHECKSUM: 0aca02f2e256938c4299fe6a68a55fde3f0493c1
+
+COCOAPODS: 1.11.3
